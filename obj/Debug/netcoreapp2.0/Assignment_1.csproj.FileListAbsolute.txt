@@ -1,0 +1,10 @@
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/bin/Debug/netcoreapp2.0/Assignment_1.deps.json
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/bin/Debug/netcoreapp2.0/Assignment_1.runtimeconfig.json
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/bin/Debug/netcoreapp2.0/Assignment_1.runtimeconfig.dev.json
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/bin/Debug/netcoreapp2.0/Assignment_1.dll
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/bin/Debug/netcoreapp2.0/Assignment_1.pdb
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/obj/Debug/netcoreapp2.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/obj/Debug/netcoreapp2.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/obj/Debug/netcoreapp2.0/Assignment_1.AssemblyInfo.cs
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/obj/Debug/netcoreapp2.0/Assignment_1.dll
+/Users/alberto/Google_Drive_RIT/RIT/Computational_Geometry/Assignments/Assignment_1/obj/Debug/netcoreapp2.0/Assignment_1.pdb
