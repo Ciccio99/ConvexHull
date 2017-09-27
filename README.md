@@ -1,5 +1,6 @@
-# ConvexHull Algorithm for Computation Geometry
+# ConvexHull Algorithm for Computational Geometry
 Author: Alberto Scicali
+Link to Github: https://github.com/Ciccio99/ConvexHull
 
 ### How to run
 In the `Assignment_1` folder, run the command 
